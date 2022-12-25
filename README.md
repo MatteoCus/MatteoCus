@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning <img src="{[BadgeURLHere](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)}" />
+- 🌱 I’m currently learning <img src="{https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white}" />
 
 <!--
 **MatteoCus/MatteoCus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
