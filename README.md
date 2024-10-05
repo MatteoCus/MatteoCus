@@ -36,7 +36,8 @@
 </p>
 
 - About me:
-  - 🏢 I'm currently working as a full-stack developer in a multimedia content management application -> Angular, JS/TS Express.js backend, PostgreSQL
+  - 🏢 I'm currently working as a full-stack developer in a multimedia content management application
+    -  Angular, JS/TS Express.js, PostgreSQL
   - 🏫 Computer Science M.Sc. Degree Student in Major in Programming Languages, Systems and Algorithms, University of Padua
  
 - ⚡ Fun facts: 
