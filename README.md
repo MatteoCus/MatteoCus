@@ -38,7 +38,7 @@
 - About me:
   - 🏢 I'm currently working as a full-stack developer in a multimedia content management application
     -  Angular, JS/TS Express.js, PostgreSQL
-  - 🏫 Computer Science M.Sc. Degree Student in Major in Programming Languages, Systems and Algorithms, University of Padua
+  - 🏫 Computer Science M.Sc. Degree Student at University of Padua, Major in "Programming Languages, Systems and Algorithms"
  
 - ⚡ Fun facts: 
   - 🐧 Linux user
