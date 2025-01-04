@@ -4,8 +4,8 @@
   - Frameworks: Flutter
  
 - 🌳 I'm familiar with:
-  - Languages: Javascript, TypeScript, CSS, HTML, C++, a bit of Dart
-  - Frameworks: Angular, QT, a bit of Flutter
+  - Languages: Javascript, TypeScript, CSS, HTML, C++
+  - Frameworks: Angular, QT
   - DB: MySQL, PostgreSQL, MongoDB
   - Tools: AWS S3, Azure Active Directory, Jenkins, Jira, Android Studio, Postman, GIT, SVN, Docker
   - Libraries & SDK: AWS SDK, Microsoft Teams Authentication Library (MSAL), Angular Material
